@@ -1,5 +1,5 @@
-# SLM-Agentic-BPM-Survey_Instrument
-Research Instrument: Software License Management (SLM) Survey This repository contains the survey instrument and data operationalization details for the research paper: "AI-Driven Automation in Knowledge-Intensive License Management".
+# SLM-Agentic-BPM-Survey and Interview Instrument
+Research Instrument: Software License Management (SLM) Survey This repository contains the survey and Interview instrument and data operationalization details for the research paper: "AI-Driven Automation in Knowledge-Intensive License Management".
 
 Overview The goal of this survey was to capture the "automation gap" and "manual residue" in Software License Management (SLM) within the DACH region. The results are used to calculate three primary research indices:
 OBVI: Operational Burden and Visibility Index
@@ -8,7 +8,7 @@ CREI: Cost and Risk Exposure Index
 
 ARDI: Automation Readiness and Demand Index
 
-Survey Instrument The full list of questions, including Likert scales and categorical options, can be found in the file:
+Survey & Interview Instrument: The full list of questions, including Likert scales and categorical options and open ended questions, can be found in the file:
 [Surve Instrument.pdf]
 Full logic of scoring Survey data is available in file:
 [logic.md]
