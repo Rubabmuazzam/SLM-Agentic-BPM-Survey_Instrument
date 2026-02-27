@@ -8,10 +8,12 @@ CREI: Cost and Risk Exposure Index
 
 ARDI: Automation Readiness and Demand Index
 
-Survey & Interview Instrument: The full list of questions, including Likert scales and categorical options and open ended questions, can be found in the file:
+Survey and interview Instrument: The full list of questions, including Likert scales and categorical options and open ended, can be found in the file:
 [Surve Instrument.pdf]
 Full logic of scoring Survey data is available in file:
 [logic.md]
+Interview Instrument: Full list that explains the purpose of interview questions available at:
+[Interview_Protocol.md]
 
 Summary of Sections: Section I: Cost and Risk Exposure Index (2 items)
 
