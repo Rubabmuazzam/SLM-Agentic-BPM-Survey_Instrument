@@ -11,7 +11,7 @@ Measures the legal and financial vulnerability of the organization
 |                     | Once / Twice         | 1                                            |                       |
 |                     | Regularly            | 2                                            |                       |
 |Dispute Loss Score   | No                   | 0                                            |                       |
-|                     | Yes                  | 1                                            |                       |
+|                     | Yes                  | 2                                           |                       |
 | Total Score         | —                    | = (Deadline Miss Score + Dispute Loss Score) | Sum of both variables |
 Formula: CREI = {Deadline Miss Score} + {Dispute Loss Score}
 **2. Operational Burden & Visibility Index (OBVI)**
